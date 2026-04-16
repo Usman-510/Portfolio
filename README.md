@@ -3,8 +3,7 @@
 
 This is my personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and education.
 
-## 🚀 Live Demo
-🔗 https://Usman-510.github.io/portfolio
+
 
 ## 📌 Features
 - 🌙 Dark / Light mode toggle
